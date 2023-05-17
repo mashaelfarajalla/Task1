@@ -51,7 +51,7 @@ body {
     height: 1.25rem;
     /* margin-left: auto; */
     content: "" !important;
-    background-image: url(/assets/images/arrow_sign_icon.png);
+    background-image: url(assets/images/arrow_sign_icon.png);
     background-repeat: no-repeat;
     background-size: 1.25rem;
     transition: transform .2s ease-in-out;
